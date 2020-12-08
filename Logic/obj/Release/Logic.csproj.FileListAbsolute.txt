@@ -1,0 +1,6 @@
+C:\Users\marti\OneDrive\Bureau\Prog Objet\Prog\Visual Studio\NoteBook\Logic\bin\Release\Logic.dll
+C:\Users\marti\OneDrive\Bureau\Prog Objet\Prog\Visual Studio\NoteBook\Logic\bin\Release\Logic.pdb
+C:\Users\marti\OneDrive\Bureau\Prog Objet\Prog\Visual Studio\NoteBook\Logic\obj\Release\Logic.csprojAssemblyReference.cache
+C:\Users\marti\OneDrive\Bureau\Prog Objet\Prog\Visual Studio\NoteBook\Logic\obj\Release\Logic.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Bureau\Prog Objet\Prog\Visual Studio\NoteBook\Logic\obj\Release\Logic.dll
+C:\Users\marti\OneDrive\Bureau\Prog Objet\Prog\Visual Studio\NoteBook\Logic\obj\Release\Logic.pdb

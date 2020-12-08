@@ -1,0 +1,14 @@
+C:\Users\marti\OneDrive\Bureau\Prog Objet\Prog\Visual Studio\NoteBook\Storage\bin\Release\netstandard2.0\Storage.deps.json
+C:\Users\marti\OneDrive\Bureau\Prog Objet\Prog\Visual Studio\NoteBook\Storage\bin\Release\netstandard2.0\Storage.dll
+C:\Users\marti\OneDrive\Bureau\Prog Objet\Prog\Visual Studio\NoteBook\Storage\bin\Release\netstandard2.0\Storage.pdb
+C:\Users\marti\OneDrive\Bureau\Prog Objet\Prog\Visual Studio\NoteBook\Storage\bin\Release\netstandard2.0\Logic.dll
+C:\Users\marti\OneDrive\Bureau\Prog Objet\Prog\Visual Studio\NoteBook\Storage\bin\Release\netstandard2.0\Logic.pdb
+C:\Users\marti\OneDrive\Bureau\Prog Objet\Prog\Visual Studio\NoteBook\Storage\obj\Release\netstandard2.0\Storage.csprojAssemblyReference.cache
+C:\Users\marti\OneDrive\Bureau\Prog Objet\Prog\Visual Studio\NoteBook\Storage\obj\Release\netstandard2.0\Storage.Properties.Resources.resources
+C:\Users\marti\OneDrive\Bureau\Prog Objet\Prog\Visual Studio\NoteBook\Storage\obj\Release\netstandard2.0\Storage.csproj.GenerateResource.cache
+C:\Users\marti\OneDrive\Bureau\Prog Objet\Prog\Visual Studio\NoteBook\Storage\obj\Release\netstandard2.0\Storage.AssemblyInfoInputs.cache
+C:\Users\marti\OneDrive\Bureau\Prog Objet\Prog\Visual Studio\NoteBook\Storage\obj\Release\netstandard2.0\Storage.AssemblyInfo.cs
+C:\Users\marti\OneDrive\Bureau\Prog Objet\Prog\Visual Studio\NoteBook\Storage\obj\Release\netstandard2.0\Storage.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Bureau\Prog Objet\Prog\Visual Studio\NoteBook\Storage\obj\Release\netstandard2.0\Storage.csproj.CopyComplete
+C:\Users\marti\OneDrive\Bureau\Prog Objet\Prog\Visual Studio\NoteBook\Storage\obj\Release\netstandard2.0\Storage.dll
+C:\Users\marti\OneDrive\Bureau\Prog Objet\Prog\Visual Studio\NoteBook\Storage\obj\Release\netstandard2.0\Storage.pdb

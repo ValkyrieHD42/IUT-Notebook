@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WU1O1u20fv24vIifgPG7oroAN/jnJK8hIXDpWISA+MQkUL4oFe6YjBbieYdF26JBR8tRzVcMdaujMVkdparrXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marti\\OneDrive\\Bureau\\Prog Objet\\Prog\\Visual Studio\\NoteBook\\Storage\\Storage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,74 @@
+C:\Users\mj076353\Desktop\NoteBook\Prog\Visual Studio\NoteBook\NoteBook\bin\Debug\NoteBook.exe.config
+C:\Users\mj076353\Desktop\NoteBook\Prog\Visual Studio\NoteBook\NoteBook\bin\Debug\NoteBook.exe
+C:\Users\mj076353\Desktop\NoteBook\Prog\Visual Studio\NoteBook\NoteBook\bin\Debug\NoteBook.pdb
+C:\Users\mj076353\Desktop\NoteBook\Prog\Visual Studio\NoteBook\NoteBook\bin\Debug\Logic.dll
+C:\Users\mj076353\Desktop\NoteBook\Prog\Visual Studio\NoteBook\NoteBook\bin\Debug\Logic.pdb
+C:\Users\mj076353\Desktop\NoteBook\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\NoteBook.csprojAssemblyReference.cache
+C:\Users\mj076353\Desktop\NoteBook\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\MainWindow.g.cs
+C:\Users\mj076353\Desktop\NoteBook\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\App.g.cs
+C:\Users\mj076353\Desktop\NoteBook\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\NoteBook_MarkupCompile.cache
+C:\Users\mj076353\Desktop\NoteBook\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\NoteBook_MarkupCompile.lref
+C:\Users\mj076353\Desktop\NoteBook\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\MainWindow.baml
+C:\Users\mj076353\Desktop\NoteBook\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\NoteBook.g.resources
+C:\Users\mj076353\Desktop\NoteBook\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\NoteBook.Properties.Resources.resources
+C:\Users\mj076353\Desktop\NoteBook\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\NoteBook.csproj.GenerateResource.cache
+C:\Users\mj076353\Desktop\NoteBook\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\NoteBook.csproj.CoreCompileInputs.cache
+C:\Users\mj076353\Desktop\NoteBook\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\NoteBook.csproj.CopyComplete
+C:\Users\mj076353\Desktop\NoteBook\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\NoteBook.exe
+C:\Users\mj076353\Desktop\NoteBook\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\NoteBook.pdb
+C:\Users\marti\OneDrive\Bureau\co po\Prog\Visual Studio\NoteBook\NoteBook\bin\Debug\NoteBook.exe.config
+C:\Users\marti\OneDrive\Bureau\co po\Prog\Visual Studio\NoteBook\NoteBook\bin\Debug\NoteBook.exe
+C:\Users\marti\OneDrive\Bureau\co po\Prog\Visual Studio\NoteBook\NoteBook\bin\Debug\NoteBook.pdb
+C:\Users\marti\OneDrive\Bureau\co po\Prog\Visual Studio\NoteBook\NoteBook\bin\Debug\Logic.dll
+C:\Users\marti\OneDrive\Bureau\co po\Prog\Visual Studio\NoteBook\NoteBook\bin\Debug\Logic.pdb
+C:\Users\marti\OneDrive\Bureau\co po\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\NoteBook.csprojAssemblyReference.cache
+C:\Users\marti\OneDrive\Bureau\co po\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\MainWindow.g.cs
+C:\Users\marti\OneDrive\Bureau\co po\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\App.g.cs
+C:\Users\marti\OneDrive\Bureau\co po\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\NoteBook_MarkupCompile.cache
+C:\Users\marti\OneDrive\Bureau\co po\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\NoteBook_MarkupCompile.lref
+C:\Users\marti\OneDrive\Bureau\co po\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\MainWindow.baml
+C:\Users\marti\OneDrive\Bureau\co po\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\NoteBook.g.resources
+C:\Users\marti\OneDrive\Bureau\co po\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\NoteBook.Properties.Resources.resources
+C:\Users\marti\OneDrive\Bureau\co po\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\NoteBook.csproj.GenerateResource.cache
+C:\Users\marti\OneDrive\Bureau\co po\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\NoteBook.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Bureau\co po\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\NoteBook.csproj.CopyComplete
+C:\Users\marti\OneDrive\Bureau\co po\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\NoteBook.exe
+C:\Users\marti\OneDrive\Bureau\co po\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\NoteBook.pdb
+C:\Users\marti\OneDrive\Bureau\co po\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\EditUnitsWindow.g.cs
+C:\Users\marti\OneDrive\Bureau\co po\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\EditUnitsWindow.baml
+C:\Users\marti\OneDrive\Bureau\co po\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\EditElementWindow.g.cs
+C:\Users\marti\OneDrive\Bureau\co po\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\EditElementWindow.baml
+C:\Users\marti\OneDrive\Bureau\co po\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\EditExamWindow.g.cs
+C:\Users\marti\OneDrive\Bureau\co po\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\EditExamWindow.baml
+C:\Users\marti\OneDrive\Bureau\co po\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\ListExamWindow.g.cs
+C:\Users\marti\OneDrive\Bureau\co po\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\ListExamWindow.baml
+C:\Users\marti\OneDrive\Bureau\co po\Prog\Visual Studio\NoteBook\NoteBook\bin\Debug\Storage.dll
+C:\Users\marti\OneDrive\Bureau\co po\Prog\Visual Studio\NoteBook\NoteBook\bin\Debug\Storage.pdb
+C:\Users\marti\OneDrive\Bureau\Prog Objet\Prog\Visual Studio\NoteBook\NoteBook\bin\Debug\NoteBook.exe.config
+C:\Users\marti\OneDrive\Bureau\Prog Objet\Prog\Visual Studio\NoteBook\NoteBook\bin\Debug\NoteBook.exe
+C:\Users\marti\OneDrive\Bureau\Prog Objet\Prog\Visual Studio\NoteBook\NoteBook\bin\Debug\NoteBook.pdb
+C:\Users\marti\OneDrive\Bureau\Prog Objet\Prog\Visual Studio\NoteBook\NoteBook\bin\Debug\Logic.dll
+C:\Users\marti\OneDrive\Bureau\Prog Objet\Prog\Visual Studio\NoteBook\NoteBook\bin\Debug\Storage.dll
+C:\Users\marti\OneDrive\Bureau\Prog Objet\Prog\Visual Studio\NoteBook\NoteBook\bin\Debug\Logic.pdb
+C:\Users\marti\OneDrive\Bureau\Prog Objet\Prog\Visual Studio\NoteBook\NoteBook\bin\Debug\Storage.pdb
+C:\Users\marti\OneDrive\Bureau\Prog Objet\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\NoteBook.csprojAssemblyReference.cache
+C:\Users\marti\OneDrive\Bureau\Prog Objet\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\EditElementWindow.g.cs
+C:\Users\marti\OneDrive\Bureau\Prog Objet\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\EditExamWindow.g.cs
+C:\Users\marti\OneDrive\Bureau\Prog Objet\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\EditUnitsWindow.g.cs
+C:\Users\marti\OneDrive\Bureau\Prog Objet\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\ListExamWindow.g.cs
+C:\Users\marti\OneDrive\Bureau\Prog Objet\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\MainWindow.g.cs
+C:\Users\marti\OneDrive\Bureau\Prog Objet\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\App.g.cs
+C:\Users\marti\OneDrive\Bureau\Prog Objet\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\NoteBook_MarkupCompile.cache
+C:\Users\marti\OneDrive\Bureau\Prog Objet\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\NoteBook_MarkupCompile.lref
+C:\Users\marti\OneDrive\Bureau\Prog Objet\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\EditElementWindow.baml
+C:\Users\marti\OneDrive\Bureau\Prog Objet\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\EditExamWindow.baml
+C:\Users\marti\OneDrive\Bureau\Prog Objet\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\EditUnitsWindow.baml
+C:\Users\marti\OneDrive\Bureau\Prog Objet\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\ListExamWindow.baml
+C:\Users\marti\OneDrive\Bureau\Prog Objet\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\MainWindow.baml
+C:\Users\marti\OneDrive\Bureau\Prog Objet\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\NoteBook.g.resources
+C:\Users\marti\OneDrive\Bureau\Prog Objet\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\NoteBook.Properties.Resources.resources
+C:\Users\marti\OneDrive\Bureau\Prog Objet\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\NoteBook.csproj.GenerateResource.cache
+C:\Users\marti\OneDrive\Bureau\Prog Objet\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\NoteBook.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Bureau\Prog Objet\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\NoteBook.csproj.CopyComplete
+C:\Users\marti\OneDrive\Bureau\Prog Objet\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\NoteBook.exe
+C:\Users\marti\OneDrive\Bureau\Prog Objet\Prog\Visual Studio\NoteBook\NoteBook\obj\Debug\NoteBook.pdb

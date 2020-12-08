@@ -1,0 +1,18 @@
+C:\Users\mj076353\Desktop\NoteBook\Prog\Visual Studio\NoteBook\Logic\bin\Debug\Logic.dll
+C:\Users\mj076353\Desktop\NoteBook\Prog\Visual Studio\NoteBook\Logic\bin\Debug\Logic.pdb
+C:\Users\mj076353\Desktop\NoteBook\Prog\Visual Studio\NoteBook\Logic\obj\Debug\Logic.csprojAssemblyReference.cache
+C:\Users\mj076353\Desktop\NoteBook\Prog\Visual Studio\NoteBook\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\mj076353\Desktop\NoteBook\Prog\Visual Studio\NoteBook\Logic\obj\Debug\Logic.dll
+C:\Users\mj076353\Desktop\NoteBook\Prog\Visual Studio\NoteBook\Logic\obj\Debug\Logic.pdb
+C:\Users\marti\OneDrive\Bureau\co po\Prog\Visual Studio\NoteBook\Logic\bin\Debug\Logic.dll
+C:\Users\marti\OneDrive\Bureau\co po\Prog\Visual Studio\NoteBook\Logic\bin\Debug\Logic.pdb
+C:\Users\marti\OneDrive\Bureau\co po\Prog\Visual Studio\NoteBook\Logic\obj\Debug\Logic.csprojAssemblyReference.cache
+C:\Users\marti\OneDrive\Bureau\co po\Prog\Visual Studio\NoteBook\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Bureau\co po\Prog\Visual Studio\NoteBook\Logic\obj\Debug\Logic.dll
+C:\Users\marti\OneDrive\Bureau\co po\Prog\Visual Studio\NoteBook\Logic\obj\Debug\Logic.pdb
+C:\Users\marti\OneDrive\Bureau\Prog Objet\Prog\Visual Studio\NoteBook\Logic\bin\Debug\Logic.dll
+C:\Users\marti\OneDrive\Bureau\Prog Objet\Prog\Visual Studio\NoteBook\Logic\bin\Debug\Logic.pdb
+C:\Users\marti\OneDrive\Bureau\Prog Objet\Prog\Visual Studio\NoteBook\Logic\obj\Debug\Logic.csprojAssemblyReference.cache
+C:\Users\marti\OneDrive\Bureau\Prog Objet\Prog\Visual Studio\NoteBook\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Bureau\Prog Objet\Prog\Visual Studio\NoteBook\Logic\obj\Debug\Logic.dll
+C:\Users\marti\OneDrive\Bureau\Prog Objet\Prog\Visual Studio\NoteBook\Logic\obj\Debug\Logic.pdb
